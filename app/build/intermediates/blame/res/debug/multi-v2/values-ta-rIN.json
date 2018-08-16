@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AndroidFiles\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta-rIN\\values-ta-rIN.xml",
+            "map": [
+                {
+                    "source": "E:\\AndroidFiles\\MyApplication\\app\\src\\main\\res\\values-ta-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "17,2,6,12,14,9,18,11,10,8,16,5,4,13,3,7,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "811,57,257,565,663,428,850,518,467,380,769,216,173,604,109,311,724",
+                        "endColumns": "37,50,52,37,59,37,53,45,49,46,40,39,41,57,62,67,43",
+                        "endOffsets": "844,103,305,598,718,461,899,559,512,422,805,251,210,657,167,374,763"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,93,144,197,235,295,333,387,433,483,530,571,611,653,711,774,842",
+                        "endColumns": "37,50,52,37,59,37,53,45,49,46,40,39,41,57,62,67,43",
+                        "endOffsets": "88,139,192,230,290,328,382,428,478,525,566,606,648,706,769,837,881"
+                    }
+                }
+            ]
+        }
+    ]
+}
